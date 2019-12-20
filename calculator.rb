@@ -1,5 +1,8 @@
-def first_number
-  puts 1 
+def local_variable
+  puts first_number
 end
 
-first_number
+def first_number
+  puts 1 
+end 
+
